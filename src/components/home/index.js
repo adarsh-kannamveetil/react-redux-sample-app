@@ -5,7 +5,6 @@ import { testAction } from "./actions";
 import logo from "../../logo.svg";
 
 const Home = (props) => {
-  console.log("props ", props);
   return (
     <div className="App">
       <header className="App-header">
